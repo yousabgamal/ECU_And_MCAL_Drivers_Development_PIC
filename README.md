@@ -35,7 +35,7 @@ The MCAL Layer abstracts the microcontroller peripherals, providing a hardware-i
 | `GPIO` | General Purpose Input/Output driver. |
 | `I2C` | I2C communication driver. |
 | `interrupt` | Interrupt service routines. |
-| `Timer`, `Timer1`, `Timer2`, `Timer3` | Timer modules for timing and scheduling tasks. |
+| `Timer0`, `Timer1`, `Timer2`, `Timer3` | Timer modules for timing and scheduling tasks. |
 | `USART` | Serial communication driver. |
 
 ---
