@@ -7,7 +7,7 @@ This project is an **embedded control system** implemented for a microcontroller
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### 1. ECU_Layer
 The ECU Layer contains the high-level modules that interact with the hardware through the MCAL layer.
@@ -40,7 +40,7 @@ The MCAL Layer abstracts the microcontroller peripherals, providing a hardware-i
 
 ---
 
-## ⚙️ Features
+## Features
 - Modular design with clear separation between hardware and application logic.  
 - Support for multiple peripherals: 7-segment, LCD, Keypad, LED, Relay, DC Motor.  
 - Configurable timers and communication protocols (USART, I2C).  
@@ -48,7 +48,7 @@ The MCAL Layer abstracts the microcontroller peripherals, providing a hardware-i
 
 ---
 
-## 🛠 Setup & Usage
+## Setup & Usage
 1. Clone the repository:
 ```bash
 git clone https://github.com/yousabgamal/ECU_And_MCAL_Drivers_Development_PIC.git
